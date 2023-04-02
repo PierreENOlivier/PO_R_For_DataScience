@@ -1,0 +1,22 @@
+---
+title: "Extra_Getting_Help"
+author: "Dr. Pierre Olivier"
+date: "2022-09-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Check google for answers
+
+Google the error message:
+"Error message in R"
+
+# Search stackoverflow
+
+Search the [R] topic to find answer or post your question.
+
+Steps to asking a good question
+Build a reproducible
